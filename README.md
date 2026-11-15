@@ -2,7 +2,7 @@
 
 # HYPER 2093
 
-**A cyberpunk 3D action game**
+**A cyberpunk type 3D action game**
 
 ![Cover](docs/cover.png)
 
