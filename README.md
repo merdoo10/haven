@@ -54,5 +54,5 @@ haven/
 3. Assign the textures from `textures/` to the materials.
 
 
-!!!!!I couldn't upload the files for lvl2 and lvl3 to GitHub because they are too large.
+!!!!! I couldn't upload the files for lvl2 and lvl3 to GitHub because they are too large.
 
