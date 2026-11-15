@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://bkyalkv30esri"]
+
+[ext_resource type="Script" uid="uid://bpt6kpn3li4l1" path="res://level_builder.gd" id="1"]
+
+[node name="TestLevel" type="Node3D" unique_id=482385939]
+script = ExtResource("1")

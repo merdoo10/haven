@@ -1,0 +1,11 @@
+Model Information:
+* title:	2 arm ULTRAKILL V1
+* source:	https://sketchfab.com/3d-models/2-arm-ultrakill-v1-849a0e954e3a459a8a41e61ce3f8c359
+* author:	Duff9999 (https://sketchfab.com/lua75358)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "2 arm ULTRAKILL V1" (https://sketchfab.com/3d-models/2-arm-ultrakill-v1-849a0e954e3a459a8a41e61ce3f8c359) by Duff9999 (https://sketchfab.com/lua75358) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
