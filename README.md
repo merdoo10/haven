@@ -46,7 +46,7 @@ haven/
 
 ## Usage
 
-1. Clone the repository:
+1. Download the repository:
    ```bash
    git clone https://github.com/merdoo10/haven.git
    ```
@@ -55,6 +55,4 @@ haven/
 
 
 
-## Contact
 
-[@merdoo10](https://github.com/merdoo10)
